@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    width: 50%;
+    height: 50px;
+    background-color: rgb(113, 74, 145);
+}
+
+section{
+    width: 300px;
+    height: 100px;
+    background-color: #234def;
+}
+.about-me{
+
+}
+
+footer{
+    
+}
